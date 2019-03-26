@@ -1,0 +1,25 @@
+{ "colors":
+[ 
+{"Main":"00A6E2", "Shade":"#000000"},
+{"Main":"00A6E2", "Shade":"#001016"},
+{"Main":"00A6E2", "Shade":"#00212D"},
+{"Main":"00A6E2", "Shade":"#003143"},
+{"Main":"00A6E2", "Shade":"#00425A"},
+{"Main":"00A6E2", "Shade":"#005371"},
+{"Main":"00A6E2", "Shade":"#006387"},
+{"Main":"00A6E2", "Shade":"#00749E"},
+{"Main":"00A6E2", "Shade":"#0084B4"},
+{"Main":"00A6E2", "Shade":"#0095CB"},
+{"Main":"00A6E2", "Shade":"#00A6E2"},
+{"Main":"00A6E2", "Shade":"#00A6E2"},
+{"Main":"00A6E2", "Shade":"#19AEE4"},
+{"Main":"00A6E2", "Shade":"#33B7E7"},
+{"Main":"00A6E2", "Shade":"#4CC0EA"},
+{"Main":"00A6E2", "Shade":"#66C9ED"},
+{"Main":"00A6E2", "Shade":"#7FD2F0"},
+{"Main":"00A6E2", "Shade":"#99DBF3"},
+{"Main":"00A6E2", "Shade":"#B2E4F6"},
+{"Main":"00A6E2", "Shade":"#CCEDF9"},
+{"Main":"00A6E2", "Shade":"#E5F6FC"},
+{"Main":"00A6E2", "Shade":"#FFFFFF"}
+] }
